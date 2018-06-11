@@ -1,0 +1,5 @@
+C:\Users\sadhna.mahur\Source\Repos\MyFirstApp\DemoPackageMgmt\DemoPackageMgmt\bin\Debug\DemoPackageMgmt.dll
+C:\Users\sadhna.mahur\Source\Repos\MyFirstApp\DemoPackageMgmt\DemoPackageMgmt\bin\Debug\DemoPackageMgmt.pdb
+C:\Users\sadhna.mahur\Source\Repos\MyFirstApp\DemoPackageMgmt\DemoPackageMgmt\obj\Debug\DemoPackageMgmt.csprojResolveAssemblyReference.cache
+C:\Users\sadhna.mahur\Source\Repos\MyFirstApp\DemoPackageMgmt\DemoPackageMgmt\obj\Debug\DemoPackageMgmt.dll
+C:\Users\sadhna.mahur\Source\Repos\MyFirstApp\DemoPackageMgmt\DemoPackageMgmt\obj\Debug\DemoPackageMgmt.pdb
